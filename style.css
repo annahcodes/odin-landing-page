@@ -42,3 +42,47 @@ body {
   max-width: 1100px;
   margin: 0 auto;
 }
+
+
+
+/* ====== HEADER ====== */
+.header,
+.footer {
+  background: #1F2937;
+  color: #F9FAF8;
+}
+
+
+/* === NAV ==== */
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-link {
+  color: #F9FAF8;
+}
+
+.logo-link:hover {
+  opacity: .7;
+}
+
+.nav-list {
+  display: flex;
+
+}
+
+.nav-link {
+  display: inline-block;
+  color: #F9FAF8;
+  font-size: .975rem;
+  padding: .75rem 1.5rem;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  background-color: #F9FAF8;
+  color: #1F2937;
+}
