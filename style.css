@@ -294,3 +294,13 @@ body {
 .cta-text {
   font-size: 1rem;
 }
+
+
+/* ===FOOTER ==== */
+.footer {
+  font-size: 1.2rem;
+  padding: 2.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
