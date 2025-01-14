@@ -1,5 +1,6 @@
 # My Odin Landing Page Project
 
+
 ## Project Description
 The landing page project is the second project in [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum meant to help learners practice their flexbox skills.
 
