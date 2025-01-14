@@ -1,6 +1,7 @@
-# The Odin Landing Page Project
+# My Odin Landing Page Project
 
-The landing page project is the secongd project in [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum mwnat to help learners practice their Flexbox skills.
+## Project Description
+The landing page project is the second project in [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum meant to help learners practice their flexbox skills.
 
 You can view the project [here](https://annahcodes.github.io/odin-landing-page).
 
